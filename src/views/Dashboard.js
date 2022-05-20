@@ -101,7 +101,7 @@ function Dashboard() {
                   </Col>
                   <Col md="8" xs="7">
                     <div className="numbers">
-                      <p className="card-category" >Returning Consumers</p>
+                      <p className="card-category" >Returning Customers</p>
                       <CardTitle tag="p">13%</CardTitle>
                       <p />
                     </div>

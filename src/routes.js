@@ -37,7 +37,7 @@ var routes = [
 
   {
     path: "/tables",
-    name: "Current Consumers",
+    name: "Current Customers",
     icon: "nc-icon nc-tile-56",
     component: TableList,
     layout: "/admin",

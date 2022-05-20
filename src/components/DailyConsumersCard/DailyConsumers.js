@@ -28,7 +28,7 @@ function DailyConsumers(props){
                 </Col>
                 <Col md="8" xs="7">
                     <div className="numbers">
-                        <p className="card-category">Daily Consumers</p>
+                        <p className="card-category">Daily Customers</p>
                         <CardTitle tag="p">
                             {consumers}
                         </CardTitle>
